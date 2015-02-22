@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tahara</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hello">Hello World, SimpleCalendar!</string>
+    <string name="dateSliderTitle">Date</string>
+    <string name="Sun">ראשון</string>
+    <string name="Mon">שני</string>
+    <string name="Tue">שלישי</string>
+    <string name="Wed">רביעי</string>
+    <string name="Thu">חמישי</string>
+    <string name="Fri">שישי</string>
+    <string name="Sat">שבת</string>
+    <string name="city">הכניסי עיר, לדוגמא: ירושלים</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="hashashot">חששות</string>
+    <string name="onabenonit">עונה בינונית</string>
+    <string name="yomhahodesh">יום החודש</string>
+    <string name="haflaga">הפלגה</string>
+
+</resources>
